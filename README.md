@@ -4,7 +4,7 @@
 ## Instruir programadores iniciantes para construir sua primeira página web, utilizando linguagem de marcação HTML e estilização CSS
 
 # Público-Alvo:
-## Estudantes inciantes de programação
+## Estudantes iniciais na área de programação
 
 # Pré-requisitos
 ## Ter o VS Code instalado na máquina, ou qualquer outro programa que possa construis o código e seja capaz de mostrá-lo em um navegador
